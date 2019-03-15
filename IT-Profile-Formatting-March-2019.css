@@ -1,0 +1,85 @@
+h1 {
+
+	text-align: center;
+	color: #000000;
+	font-weight: bold;
+	font-family: calibri;
+	font-size: 50px;
+
+}
+
+body {
+
+	background-image: url("IT Profile Background.jpg");
+
+}
+
+div {
+
+	background-color: #FFFFFF;
+	padding: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	border-radius: 20px;
+	margin: 50px;
+	margin-left: 70px;
+	margin-right: 70px;
+
+}
+
+p {
+
+	color: #000000;
+	text-align: justify;
+	font-family: calibri;
+	font-size: 25px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 30px; 
+
+}
+
+p.subtitle {
+
+	font-size: 30px;
+	text-align: justify;
+	font-weight: bold;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+
+}
+
+p.questions {
+
+	text-decoration: underline;
+	text-align: justify;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+
+}
+
+li {
+
+	font-size: 25px;
+	text-align: justify;
+
+}
+
+img {
+
+	height: 25%;
+	width: 50%;
+	position: relative;
+	left: 25%;
+
+}
+
+
+
+
+
+
+
+
