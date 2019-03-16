@@ -11,6 +11,7 @@ h1 {
 body {
 
 	background-image: url("IT Profile Background.jpg");
+	background-attachment: fixed;
 
 }
 
@@ -24,6 +25,7 @@ div {
 	margin: 50px;
 	margin-left: 70px;
 	margin-right: 70px;
+	opacity: 0.9;
 
 }
 
@@ -74,6 +76,26 @@ img {
 	width: 50%;
 	position: relative;
 	left: 25%;
+
+}
+
+a.nav {
+
+	padding: 14px 16px;
+	border-radius: 30px; 
+	margin: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #000000;
+
+}
+
+nav {
+
+	margin-bottom: 30px;
 
 }
 
